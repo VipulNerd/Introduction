@@ -8,4 +8,4 @@ Also I started learning Web Developement . My main Goal is Learn App Developemen
 </div>
 <br>
 <h2>Connect with Me At</h2>
-LinkedIn : https://www.linkedin.com/feed/
+LinkedIn : www.linkedin.com/in/vipul-gupta-628541251
