@@ -1,4 +1,8 @@
-# Introduction
+<style>
+  h1{
+    color:red
+  }
+</style>
 <h1>Information about Me</h1>
 <br>
 <div1>Author - Vipul Gupta</div>
