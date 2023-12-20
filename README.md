@@ -1,7 +1,8 @@
 # Introduction
-Information about Me.
+<h1>Information about Me</h1>
 <br>
-Author - Vipul Gupta
+<div1>Author - Vipul Gupta</div>
+<div2>Currently learning - Web Development </div2>
 <br>
-Coding language currently Learning - JAVA 
+Also have a good command in java object oriented programming
 <br>
